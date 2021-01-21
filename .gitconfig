@@ -1,0 +1,7 @@
+# Example gitconfig file
+# You can set the project-level Git configuations in the local ./.git/config file using commands like:
+#   git config $CONFIG_KEY $CONFIG_VALUE
+# For example, to set the code editor to nano:
+#   git config core.editor 'nano -w'
+[core]
+  editor = nano -w

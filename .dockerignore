@@ -1,0 +1,10 @@
+.dockerignore
+.editorconfig
+.git/
+.gitconfig
+.markdownlint.json
+.tool-verions
+Dockerfile
+LICENSE
+README.md
+Tasks.todo
